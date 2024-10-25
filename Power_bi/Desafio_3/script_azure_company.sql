@@ -111,5 +111,9 @@ PRIMARY KEY (Essn, Dependent_name),
 CONSTRAINT fk_dependent FOREIGN KEY (Essn) REFERENCES employee(Ssn)
 );
 
+-- Mostra as tabelas existentes criadas
+SHOW TABLES;
 
+-- Descrição da tabela dependent
+DESC dependent;
 
