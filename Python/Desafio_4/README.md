@@ -1,5 +1,4 @@
-# package_name
-
+  
 Description. 
 The package image_processing_EllenRose is used to:
 	Processing:
