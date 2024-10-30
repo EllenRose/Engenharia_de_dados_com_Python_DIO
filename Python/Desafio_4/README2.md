@@ -1,6 +1,6 @@
 # Desafio Prático: Criando um pacote de processamento de imagem com Python 
 
-Esse desafio foi realizado durante a trajetória do bootcamp de Engenharia de dados com python da **DIO** em parceria com a **NTT DATA*
+Esse desafio foi realizado durante a trajetória do bootcamp de Engenharia de dados com python da **DIO** em parceria com a **NTT DATA**
 **Objetivo do desafio:** Criação de um pacote de processamento de imagem com Python 
 **Etapas Realizadas**
 - Edição do arquivo setup.py
